@@ -17,8 +17,8 @@ Example Passage Used for Comparison
 
 ## Output
 ```
-Prepared by: ABINAYA
-REGISTOR NUMBER:25014594/212225230003
+Prepared by: Rakesh V
+REGISTOR NUMBER:212222110036
 
 
 Artificial Intelligence is rapidly transforming industries such as healthcare, education, finance, and transportation. 
